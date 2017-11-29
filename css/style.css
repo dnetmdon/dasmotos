@@ -19,6 +19,10 @@ h2 {
     background-color: mediumspringgreen;
 }
 
+.titleheader {
+  background-image: url("../img/image1.jpeg");
+}
+
 .price {
   font-weight: bold;
   color: blue;
